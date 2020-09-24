@@ -1,0 +1,6 @@
+FigMovSp=10
+SelColor=16711680
+ShowMov=True
+MyName=Todor
+Snd=True
+EndTurn=False
